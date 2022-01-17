@@ -1,0 +1,43 @@
+{
+    "productos":[
+        {
+            "id":1,
+            "nombre":"Limon",
+            "preciopleno":"800",
+            "preciodescuento":500,
+            "img":"../images/productos/limon.png",
+            "descuento":"30% dto",
+            "tipo":"descuento"
+
+        },
+        {
+            "id":2,
+            "nombre":"Aguacate",
+            "preciopleno":"1500",
+            "preciodescuento":900,
+            "img":"../images/productos/aguacate.png",
+            "descuento":"30% dto",
+            "tipo":"descuento"
+
+        },
+        {
+            "id":3,
+            "nombre":"Tomate",
+            "preciopleno":"900",
+            "preciodescuento":400,
+            "img":"../images/productos/tomate.png",
+            "descuento":"40% dto",
+            "tipo":"descuento"
+
+        },
+        {
+            "id":4,
+            "nombre":"Nopal",
+            "preciopleno":"3000",
+            "preciodescuento":2400,
+            "img":"../images/productos/nopal.png",
+            "descuento":"32% dto",
+            "tipo":"descuento"
+        }
+    ]
+}

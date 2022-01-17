@@ -1,0 +1,36 @@
+{
+    "productos2":[
+        {
+            "id":1,
+            "nombre":"Pechuga de pavo",
+            "precio":15000,
+            "img":"../images/productos/pavo.png",
+            "tipo":"sindescuento"
+            
+        },
+        {
+            "id":2,
+            "nombre":"Mayonesa",
+            "precio":6000,
+            "img":"../images/productos/mayone.png",
+            "tipo":"sindescuento"
+            
+        },
+        {
+            "id":3,
+            "nombre":"Huevos",
+            "precio":14000,
+            "img":"../images/productos/huevos.png",
+            "tipo":"sindescuento"
+            
+        },
+        {
+            "id":4,
+            "nombre":"Pan Bimbo",
+            "precio":6000,
+            "img":"../images/productos/pan.png",
+            "tipo":"sindescuento"
+            
+        }
+    ]
+}
